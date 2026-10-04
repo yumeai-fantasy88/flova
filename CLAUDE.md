@@ -1,0 +1,24 @@
+# MAD Kawaii / Lion City Night — 制作ルール
+
+ハロテイ（底辺AI Halloween Night powered by FLOVA）応募MV。映像・動画素材は100% FLOVAで生成する。
+
+- 構想メモ：https://claude.ai/code/artifact/d9c86ddf-c1b2-45c8-a48f-13764d9a5a8f
+- FLOVAプロジェクト：https://www.flova.ai/project/?id=6e00b97a39a3446f925948b319bf6f4e
+- 決定済みの参考画像：`assets/generated/gin/selected_gin_final_sheet.jpg`、`assets/generated/witch/witch_sheet_gpt-image-2.5.jpg`、`assets/generated/world/selected_*.jpg`
+
+## 画像生成（GPT Image 2.5 など）
+
+- 顔を決めるときは、顔の参考画像を1枚だけ渡す。2枚渡すと、先の三面図の顔に引っ張られる。
+- GPT Image 2.5 特有の画像ノイズを避ける一文を毎回入れる：「AIのノイズ・ザラついた高周波の粒・過剰なシャープ・ディザ模様なし。ごく細かい自然なフィルム粒子だけ」。粗いノイズは編集で足す。
+- 質感はマット。つや・ろう・濡れた床の反射は避ける。
+- 脚と腕の左右を具体的に書く（どちらの脚が前か、どちらの足に体重か）。生成後、左右が入れ替わっていないか必ず確認する。
+- 動画の開始フレームは、動きの途中ではなく止まった状態か、動きの始まりにする。
+- Midjourney は FLOVA 経由だとプロンプト1,024文字まで。縦横比は16:9で返ってくる。
+
+## 動画生成（Seedance 2.0）
+
+- 料金は1秒約24クレジット、最短4秒。
+- 毎回「完全な無音。音楽・効果音・環境音・声なし」と入れる（音声の著作権エラー対策）。
+- 1カットの動きは1つに絞る。スロー・カメラの振り・水しぶきを詰め込まない。
+- 魔女とその魔法は平面の2Dアニメ絵、現実は実写。
+- 画面に文字を入れない（歌詞は編集で入れる）。
