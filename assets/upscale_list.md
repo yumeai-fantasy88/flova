@@ -6,14 +6,14 @@
 |---|---|---|---|---|
 | 1 | 0:00 冒頭 | video_tests/cut01_opening_hook_multishot_seedance2.0_720p.mp4 | 5.1 | Standalone_opening_clip1_video / 976092cf… |
 | 2 | 0:05 焼却缶の火 | video_tests/test01_housing_fire_smoke_seedance2.0_720p.mp4 | 5.1 | Standalone_seedance2_prompttest_video / ff626361… |
-| 3 | 0:10 満月→お供え | video_tests/cut03_moon_to_offerings_bokeh_seedance2.0_720p.mp4 | 5.1 | Standalone_opening_clip2_video（2本あり。新しい方 884739d6…） |
+| 3 | 0:10 満月→お供え | video_tests/cut03_moon_to_offerings_bokeh_seedance2.0_720p.mp4 | 5.1 | Standalone_opening_clip2_video / 884739d6…（照合済み） |
 | 4 | 0:15 影が笑う | video_tests/test03_shadow_0015_laugh_seedance2.0_720p.mp4 | 5.1 | Standalone_seedance2_shadowlaugh_video / 421473141… |
 | 5 | 05 | cuts/cut05_seedance2.0_720p.mp4 | 5.1 | Standalone_shot05_video / a189c53d… |
 | 6 | 06 | cuts/cut06_seedance2.0_720p.mp4 | 4.1 | Standalone_shot06_video / eb4eaae5… |
 | 7 | 07 | cuts/cut07_v3_8s_seedance2.0_720p.mp4 | 8.1 | Standalone_shot07_video_v3 / 23a75b45… |
-| 8 | 08 | cuts/cut08_seedance2.0_720p.mp4 | 4.1 | Standalone_shot08_video_v2（2本あり・要確認） |
-| 9 | 09 | cuts/cut09_seedance2.0_720p.mp4 | 8.1 | Standalone_shot09_video_v2（2本あり・要確認） |
-| 10 | 10 | cuts/cut10_seedance2.0_720p.mp4 | 4.1 | Standalone_shot10_video_v2（2本あり・要確認） |
+| 8 | 08 | cuts/cut08_seedance2.0_720p.mp4 | 4.1 | Standalone_shot08_video_v2 / 27eb0876…（照合済み） |
+| 9 | 09 | cuts/cut09_seedance2.0_720p.mp4 | 8.1 | Standalone_shot09_video_v2 / 592fad6f…（照合済み） |
+| 10 | 10 | cuts/cut10_seedance2.0_720p.mp4 | 4.1 | Standalone_shot10_video_v2 / 2078f1ff…（照合済み） |
 | 11 | 11A | cuts/cut11A_seedance2.0_720p.mp4 | 4.1 | Standalone_shot11A_video_v2 / 998d7f14… |
 | 12 | 11B | cuts/cut11B_seedance2.0_720p.mp4 | 5.1 | Standalone_shot11B_video_v2 / 724711be… |
 | 13 | 12A | cuts/cut12A_seedance2.0_720p.mp4 | 5.1 | Standalone_shot12A_video_v2 / 79f50b99… |
@@ -45,3 +45,5 @@
 | 39 | 26 | cuts/cut26_seedance2.0_720p.mp4 | 4.1 | Standalone_shot26_video / 55d8aa88… |
 
 合計 39本・約226秒。1秒約1クレジットなら約230クレジット（残り384）。
+
+同じ名前が2本あるものは、動画の中身があるほう（ファイルを照合済み）が採用版。もう1本は中身のない空の記録。
