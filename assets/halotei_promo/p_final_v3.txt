@@ -1,0 +1,7 @@
+Standalone asset only: edit the uploaded image with Nano Banana Pro and output exactly ONE image, vertical 9:16, same resolution. Do not generate video, audio or other assets.
+
+[Keep] Everything in the uploaded photo exactly as it is: the room, the plum velvet sofa, the seat-shaped dent in the middle cushion, the steam, the boom microphone, the softbox, the clipboard in the lower left, the window, moon, witch hat, jack-o'-lantern, the dark low-key contrast and colors. Do not change the camera, framing or lighting.
+
+[Change] Move only the floating white mug. Remove it from its current place at the front right corner of the middle cushion. Place it at the left side of the dented middle seat, where the right hand of an invisible person sitting in the dent would naturally hold it: hovering in mid-air just above the left seat cushion, close to where the left seat meets the middle seat, at about the height of the bottom edge of the left throw pillow, roughly 25 centimeters above the seat surface. The mug is upright, tilted very slightly toward the dent as if held in a relaxed hand, handle pointing toward the dent, with the same thin wisp of steam rising from it. Add a very soft, faint shadow of the mug on the cushion below it so it clearly floats. The front right corner of the middle cushion is now plain velvet with nothing on it.
+
+[Constraints] No person, no hands, no body, no text. No AI noise, gritty high-frequency grain, oversharpening or dither patterns; only very fine natural film grain. Matte, photorealistic.
