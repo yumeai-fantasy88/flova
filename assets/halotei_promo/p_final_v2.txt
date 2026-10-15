@@ -1,0 +1,10 @@
+Standalone asset only: generate exactly ONE still image with GPT Image 2.5, vertical 9:16 portrait. Do not generate video, audio or other assets. The uploaded image is the scene reference only: same room, same deep plum velvet sofa with the seat-shaped dent in the middle cushion, same props. Rebuild the photo with these changes.
+
+[Keep] The empty plum velvet sofa, the deep seat-shaped dent in the middle cushion, the floating white mug with a thin wisp of steam, the boom microphone from the top edge, the softbox edge at the right edge, the blurred clipboard corner at lower left, the moonlit window with sheer curtains, the witch hat and cloak on the wall hook and the jack-o'-lantern at left.
+
+[Change]
+Distance: the interviewer sits close, only about 1.2 meters from the front edge of the sofa. The sofa is large in frame and its left and right ends are cut off by the frame edges; only the middle seat with the dent and parts of the neighbouring seats are visible. Camera at seated eye height, slightly frontal, 15 degrees off-center to the left, 35mm lens, f1.8, Dutch tilt of 4 degrees.
+Mug: the mug floats clearly in front of the sofa, about 30 centimeters forward from the front edge of the dented seat cushion, at knee height, on the lower right third of the frame, as if held by someone leaning forward. It is no longer near the backrest.
+Look: real low-key interior photograph, not a rendered image. Deep true blacks in the corners and under the sofa, strong contrast, crushed shadows, small pools of light only where the light falls. No haze, no fog, no milky glow, no bloom, no lifted grey shadows. The softbox light falls hard and white on the dented seat and the mug; the jack-o'-lantern gives a small warm orange pool at left; moonlight is a thin cool rim on the curtains. Real velvet pile texture, visible fabric wear, real-world imperfections. Matte, no gloss, no floor reflections.
+
+[Constraints] No person, no body, no hands, no text. No AI noise, gritty high-frequency grain, oversharpening or dither patterns; only very fine natural film grain. Photorealistic, like a real photo taken on a full-frame digital camera, physically plausible.
