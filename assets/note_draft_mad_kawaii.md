@@ -105,6 +105,19 @@ https://www.youtube.com/watch?v=FUuIdoT3css
 
 【画像：去年の魔女／今回の魔女】
 
+### 少女GINも、別の作品から
+魔女だけではありません。主人公の少女GINも、別の作品からやってきました。
+
+GINは、夏の底辺AI音楽フェス「サマテイ」で公開したMV「We Both Loved This House」に登場した少女です。
+https://youtu.be/UBdyQFq7K4A
+
+彼女にも、本当はもっと細かい設定があります。今回はそれを表には出さず、「MAD Kawaii / Lion City Night」の世界観に合わせて登場してもらいました。
+
+実は私の作品では、これまでも同じキャラクターが、違う作品の中でひそかにつながっています。
+くわしくは書きませんが、マルチバースのようなものだと思って、ほかの作品も見てもらえたらうれしいです。
+
+【画像：「We Both Loved This House」のGIN／今回のGIN】
+
 ---
 
 ## 歌詞と映像を、つなげる
@@ -169,7 +182,7 @@ Spectre（幽霊）とSpectrum（スペクトル）は、同じ語源を持つ�
 それも楽しい。でも、私が作る意味はそこにはないと思っています。
 
 人と違うものを作れないなら、作る意味がない。
-だから今回も、知らない国の文化を調べ、去年の自分の作品とつなげ、歌詞と映像を結び、道具まで自分で作って仕上げました。
+だから今回も、知らない国の文化を調べ、これまでの自分の作品のキャラクターとつなげ、歌詞と映像を結び、道具まで自分で作って仕上げました。
 
 「ひねっちゃったんだね」と言われたこのMVは、
 私にとっては、いちばんまっすぐに作ったハロウィンです。
@@ -204,6 +217,9 @@ https://fes.wistaria-addict.com/halloween/
 
 去年のMV「MAD Kawaii Witch」
 https://www.youtube.com/watch?v=FUuIdoT3css
+
+GINが登場するMV「We Both Loved This House」（サマテイ）
+https://youtu.be/UBdyQFq7K4A
 
 Yumeai Fantasy
 https://tsukilab.jp/yumeaifantasy/
