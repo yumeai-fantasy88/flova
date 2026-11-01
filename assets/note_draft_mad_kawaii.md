@@ -221,9 +221,6 @@ https://www.youtube.com/watch?v=FUuIdoT3css
 GINが登場するMV「We Both Loved This House」（サマテイ）
 https://youtu.be/UBdyQFq7K4A
 
-Yumeai Fantasy
-https://tsukilab.jp/yumeaifantasy/
-
 ---
 
 ## クレジット
@@ -236,5 +233,21 @@ Image：GPT Image 2.5 / Seedream 5.0 Pro / Nano Banana Pro / Midjourney v8.2（v
 Video：Seedance 2.0（FLOVA）
 Upscale：FLOVA
 Edit：CapCut / 自作のビデオエディター / 自作のリリックビデオスタジオ
+
+それではまた次回のnoteでお会いしましょう。
+
+---
+
+【YouTube CH】Yumeai Fantasy
+https://youtube.com/@yumeaifantasy?si=zzFrkjXAlggMULbP
+
+【HP】夢逢真月里公式HP / Yumeai Fantasy
+https://tsukilab.jp/yumeaifantasy/
+
+【YouTube版】ポッドキャスト・月真猫真月里の映画場
+https://youtube.com/playlist?list=PLCU9PnzGkb5mwqMqsE9XY56lctZrEpLBU&si=WttlIC9jCSGYR4I0
+
+月真猫真月里の映画場・おたよりフォーム
+https://form.run/@atg-tsukimao-Ui1jFBfgTsdTDaaB1b5q
 
 #ハロテイ #AIMV #AI音楽 #FLOVA #シンガポール #ハロウィン
